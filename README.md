@@ -7,8 +7,7 @@ El proyecto Bienes Raices es una aplicación web desarrollada en NodeJS con el p
 - ExpressJS
 - Sequelize
 - TailwindCSS
-
-
+- Pug
 
 
 ## Instalación y configuración
